@@ -13,8 +13,6 @@ Mortui Vivos Docent,  the dead teach the living
 
 ## About Me
 
----
-
 ## **👩‍💻Career**
 
 `2022.03~2022.05` 
@@ -49,23 +47,15 @@ UAI 프로젝트(강의교환 플랫폼)
 
 `2015` 성신여자대학교 문화 내러티브 학과 복수전공
 
-`2017` Technical University of Aschaffenburg 
+`2017` Technical University of Aschaffenburg Business Administration 전공
 
-     Business Administration 전공
-
-`2019` Java기반 빅데이터 IT콘텐츠 정보시스템 
-
-     취업과정 수료
+`2019` Java기반 빅데이터 IT콘텐츠 정보시스템 취업과정 수료
 
 `2019` 한국외국어대학교 일반대학원 영어학과 입학
 
-`2021` 한국외국어 대학교 일반대학원 영어학과 
+`2021` 한국외국어 대학교 일반대학원 영어학과 실용음성처리 전공 수료
 
-     실용음성처리 전공 수료
-
-`2022` AI 데이터 플랫폼을 활용한 빅데이터 분석 
-
-    전문가 과정 
+`2022` AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 
 
 ## 🧾Certificate
 
@@ -107,14 +97,9 @@ UAI 프로젝트(강의교환 플랫폼)
 
 ## Favorite
 
----
-
 **🎧 음악** 🚁**드론  😺고양이 🍰 간식 🏡부동산** 📈**주식** 🎸**기타** 💃🏻**뮤지컬**
 
 📝  blog: [https://jmj3047.github.io](https://jmj3047.github.io/)
 
----
 
 Copyright ⓒ 장민지 All rights reserved.
-
-![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FOrdinary-Code-babb21475b004fdeb481b5e465cb8fa5&count_bg=%239C9C9C&title_bg=%23FDADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FOrdinary-Code-babb21475b004fdeb481b5e465cb8fa5&count_bg=%239C9C9C&title_bg=%23FDADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com))
