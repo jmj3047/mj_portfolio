@@ -39,10 +39,21 @@ Mortui Vivos Docent,  the dead teach the living
   - 선정주제: CNN, HMM을 비교하여 더 나은 성능의 Trigger Word Detection Model 제작
   - 담당업무: Trigger Word 녹음 및 전처리, HTK를 사용한 HMM모델 만들기, Python을 사용하여 CNN 모델 만들기
 
-`2020.09~2020.12` NIA 프로젝트(텍스트 데이터 전처리) 
-
+`2020.09~2020.12` NIA 프로젝트
+  - 사용언어: Python
+  - 작업툴: Visual Studio Code, Exel
+  - 인원: 20명
+  - 기간: 2019.09.16~2020.12.31
+  - 내용: 인공지능(AI) 학습용 데이터 구축 2차(자연어/자유대화 분야)
+  - 담당업무: 외래어 단어 예문 생성
+  
 `2020.09~2020.12` 교재별 한국어 데이터 분류 및 통계 작업
-
+  - 사용언어: Python
+  - 작업툴: Visual Studio Code, Exel
+  - 인원: 3명
+  - 기간: 2019.09.01~2020.12.31
+  - 내용: 한국어 교재 데이터를 어휘, 어미, 표현 섹터로 분류
+ 
 `2019.05~2019.10` UAI 프로젝트 
   - 사용언어: HTML, CSS3, Java, Java Script, SQL
   - 작업툴: Visual Studio Code, Eclipse, Spring, Oracle
