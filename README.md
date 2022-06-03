@@ -14,6 +14,14 @@ Mortui Vivos Docent,  the dead teach the living
 ## **👩‍💻Career**
 
 `2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://github.com/jmj3047/zipfilx-home)
+  - 사용언어:
+  - 작업툴:
+  - 인원:
+  - 기간:
+  - 내용:
+  - 선정주제:
+  - 기여:
+  - 결과:
 
 `2019.09~2021.02` 한국외국어대학교 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
 
