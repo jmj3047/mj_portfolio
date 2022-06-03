@@ -30,7 +30,7 @@ Mortui Vivos Docent,  the dead teach the living
   - 내용: 외국어 교육센터 홈페이지 관리 및 통계 분석 담당
   - 담당업무: 홈페이지 유지 보수, 보고서 분석 및 통계 자료 제작
 
-`2020.09~2020.12` 한국연구재단 창의자율과제 프로젝트
+`2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
   - 사용언어: Python, Tensorflow
   - 작업툴: Visual Studio Code, Kaldi, HTK, Adobe Audition
   - 인원: 7명
@@ -54,7 +54,7 @@ Mortui Vivos Docent,  the dead teach the living
   - 기간: 2019.09.01~2020.12.31
   - 내용: 한국어 교재 데이터를 어휘, 어미, 표현 섹터로 분류
  
-`2019.05~2019.10` UAI 프로젝트 
+`2019.05~2019.10` [UAI 프로젝트](https://minjeejang-95.notion.site/UAI-_-1691d2f8ed5b432fab66812b4fdf3530)
   - 사용언어: HTML, CSS3, Java, Java Script, SQL
   - 작업툴: Visual Studio Code, Eclipse, Spring, Oracle
   - 인원: 6명
