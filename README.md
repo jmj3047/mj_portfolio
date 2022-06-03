@@ -66,27 +66,28 @@ Mortui Vivos Docent,  the dead teach the living
 
 ## **🎓 Education**
 
-`2014` 성신여자대학교 인문대학 영어영문학과 입학
-
-`2015` 성신여자대학교 문화 내러티브 학과 복수전공
-
-`2017` Technical University of Aschaffenburg Business Administration 전공
-
-`2019` Java기반 빅데이터 IT콘텐츠 정보시스템 취업과정 수료
-
-`2019` 한국외국어대학교 일반대학원 영어학과 입학
+`2022` AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 
 
 `2021` 한국외국어 대학교 일반대학원 영어학과 실용음성처리 전공 수료
 
-`2022` AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 
+`2019` 한국외국어대학교 일반대학원 영어학과 입학
+
+`2019` Java기반 빅데이터 IT콘텐츠 정보시스템 취업과정 수료
+
+`2017` Technical University of Aschaffenburg Business Administration 전공
+
+`2015` 성신여자대학교 문화 내러티브 학과 복수전공
+
+`2014` 성신여자대학교 인문대학 영어영문학과 입학
+
 
 ## 🧾Certificate
-
-`2017` ZD A2급 취득
 
 `2019` 엑셀 통계 분석 능력 검정 2급 취득
 
 `2019` 드론교육지도자 2급 취득
+
+`2017` ZD A2급 취득
 
 ## 📝 **Used Tool & Skill**
 
