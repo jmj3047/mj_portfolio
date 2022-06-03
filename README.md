@@ -2,7 +2,7 @@
 
 ### "안녕하세요👋 세상의 내러티브를 만드는 개발자 장민지입니다."
 
-Mortui Vivos Docent,  the dead teach the living
+`Mortui Vivos Docent,  the dead teach the living`
 
 산 자가 죽은 자에게 배운다는 뜻으로 인문학이 가지고 있는 힘을 강력하게 담고 있는 문장입니다. 
 
