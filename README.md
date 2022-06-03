@@ -1,7 +1,6 @@
 # RESUME
 
-### "안녕하세요👋
- 세상의 내러티브를 만드는 개발자 장민지입니다."
+### "안녕하세요👋 세상의 내러티브를 만드는 개발자 장민지입니다."
 
 Mortui Vivos Docent,  the dead teach the living
 
