@@ -13,7 +13,7 @@ Mortui Vivos Docent,  the dead teach the living
 
 ## **👩‍💻Career**
 
-`2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://github.com/jmj3047/zipfilx-home)
+`2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://minjeejang-95.notion.site/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python
   - 작업툴: Visual Studio Code, PostgreSQL, Adobe Premiere Pro
   - 인원: 5명
@@ -21,6 +21,7 @@ Mortui Vivos Docent,  the dead teach the living
   - 내용: 카카오톡 오픈빌더로 만든 rule-based 기반 챗봇
   - 선정주제: 무주택자를 위한 대출 상품 조회와 금리 계산 서비스 개발
   - 담당업무: 서비스기획, 시나리오구성, 데이터수집, 데이터전처리, 조회알고리즘, 스킬서버구축, 시연영상제작
+  - [소스코드](https://github.com/jmj3047/zipfilx-home)
 
 `2019.09~2021.02` 한국외국어대학교 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
   - 사용언어: HTML
