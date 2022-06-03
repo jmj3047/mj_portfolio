@@ -11,7 +11,6 @@ Mortui Vivos Docent,  the dead teach the living
 
 `Deep Learning specialist`  `Python` `English Linguistics` `Cultural Narrative` 
 
-## About Me
 
 ## **👩‍💻Career**
 
