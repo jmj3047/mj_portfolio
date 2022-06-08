@@ -56,6 +56,7 @@
   - 인원: 3명
   - 기간: 2019.09.01~2020.12.31
   - 내용: 한국어 교재 데이터를 어휘, 어미, 표현 섹터로 분류
+  - [관련자료 및 코드](https://github.com/jmj3047/korean_data_classification_prj.git)
  
 `2019.05~2019.10` [UAI 프로젝트](https://minjeejang-95.notion.site/UAI-_-1691d2f8ed5b432fab66812b4fdf3530)
   - 사용언어: HTML, CSS3, Java, Java Script, SQL
