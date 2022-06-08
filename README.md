@@ -39,6 +39,7 @@
   - 내용: 자동차 음성제어를 위한 Voice Trigger 모듈 개발
   - 선정주제: CNN, HMM을 비교하여 더 나은 성능의 Trigger Word Detection Model 제작
   - 담당업무: Trigger Word 녹음 및 전처리, HTK를 사용한 HMM모델 만들기, Python을 사용하여 CNN 모델 만들기
+  - [소스코드](https://github.com/jmj3047/trigger_word_detection_prj.git)
 
 `2020.09~2020.12` NIA 프로젝트
   - 사용언어: Python
