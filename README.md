@@ -20,7 +20,8 @@
   - 내용
     - 딥러닝 및 머신러닝 모델에 대한 관련 논문을 읽고 블로그에 정리
     - 딥러닝 및 머신러닝 모델을 코드로 구현 및 실습
-  - [관련 자료](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
+  - [논문 자료](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
+  - [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
 
 `2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://minjeejang-95.notion.site/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python
