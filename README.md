@@ -11,7 +11,7 @@
 `Deep Learning specialist` `English Linguistics` `Cultural Narrative` 
 
 
-## **👩‍💻Career**
+## **👩‍💻Career & Portfolio**
 
 `2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://minjeejang-95.notion.site/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python
