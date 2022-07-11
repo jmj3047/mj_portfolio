@@ -13,7 +13,7 @@
 
 ## **👩‍💻Career & Portfolio**
 
-`2022.04~2022.07` Deep/Machine Learning Paper Study((https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
+`2022.04~2022.07` [Deep/Machine Learning Paper Study](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
   - 작업툴: Notion, Github, Powerpoint
   - 인원: 3명
   - 기간: 2022.04.10~2022.07.09
