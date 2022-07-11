@@ -106,10 +106,10 @@
 ## 📝 **Used Tool & Skill**
 
 **Tool**
-`Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition`
+`Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `Oracle` `MySQL` `MongoDB` `DBeaver` `STS4`
 
 **Skill**
-`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch`
+`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java`
 
 ## 👩‍🚀**Related Skills**
 
