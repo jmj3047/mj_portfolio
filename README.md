@@ -22,7 +22,7 @@
     - 딥러닝 및 머신러닝 모델을 코드로 구현 및 실습
   - [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
   
-`2022.06.13~ 2022.06.24` [Dacon 음성 분류 경진대회](https://github.com/jmj3047/dacon_soundrecognition.git)
+`2022.06` [Dacon 음성 분류 경진대회](https://github.com/jmj3047/dacon_soundrecognition.git)
   - 사용언어: Python
   - 작업툴: Visual Studio Code
   - 최종 점수: 0.99
