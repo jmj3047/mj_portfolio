@@ -22,12 +22,12 @@
     - 딥러닝 및 머신러닝 모델을 코드로 구현 및 실습
   - [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
   
-`2022.06.23` [Dacon 음성 분류 경진대회](https://github.com/jmj3047/dacon_soundrecognition.git)
+`2022.06.13~ 2022.06.24` [Dacon 음성 분류 경진대회](https://github.com/jmj3047/dacon_soundrecognition.git)
   - 사용언어: Python
   - 작업툴: Visual Studio Code
   - 최종 점수: 0.99
   - 등수: 217 팀 중 13등(5% 이내)
-  - 대회 기간: 202206.13~ 2022.06.23
+  - 대회 기간: 2022.06.13~ 2022.06.24
   - 대회 내용: 음성데이터를 이용하여 0~9까지 숫자를 분류하는 대회
   - 담당업무: 음성데이터 전처리, mfcc featuring, CNN modeling
 
