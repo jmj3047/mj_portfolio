@@ -21,6 +21,13 @@
     - 딥러닝 및 머신러닝 모델에 대한 관련 논문을 읽고 블로그에 정리
     - 딥러닝 및 머신러닝 모델을 코드로 구현 및 실습
   - [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
+  
+`2022.06.23` Dacon 음성 분류 경진대회
+  - 사용언어: Python
+  - 작업툴: Visual Studio Code
+  - 인원: 1명
+  - 기간: 2022.06.23
+  - 대회 내용: 음성데이터를 이용하여 0~9까지 숫자를 분류하는 대회
 
 `2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://minjeejang-95.notion.site/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python
