@@ -13,7 +13,8 @@
 
 ## **👩‍💻Career & Portfolio**
 
-`2022.08` 원더피플  입사
+`2022.08~` 원더피플  입사
+
 
 `2022.04~2022.07` [Deep/Machine Learning Paper Study](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
   - 작업툴: Notion, Github, Powerpoint
@@ -117,7 +118,7 @@
 ## 📝 **Used Tool & Skill**
 
 **Tool**
-`Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `Oracle` `MySQL` `MongoDB` `DBeaver` `STS4`
+`Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `Oracle` `MySQL` `MongoDB` `DBeaver` `STS4` `PostgreSQL` `Grafana` `BigQuery`
 
 **Skill**
 `HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java`
