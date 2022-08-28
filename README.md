@@ -15,7 +15,7 @@
 
 `2022.08~` 원더피플  입사
 
-`2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://github.com/jmj3047/verdeterr_java_prj/blob/master/prj_doc/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/1%E1%84%8C%E1%85%A9_%E1%84%87%E1%85%A6%E1%84%85%E1%85%B3%E1%84%83%E1%85%A6%E1%84%90%E1%85%A6%E1%84%85%E1%85%B3_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+`2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://www.notion.so/minjeejang-95/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python, Spring boot, RestAPI, Jython, Java, Thymeleaf, Bootstrap, Ajax, Jquery, MySQL
   - 작업툴: STS4, Dbeaver, Sourcetree
   - 인원: 5명
