@@ -13,7 +13,7 @@
 
 ## **👩‍💻Career & Portfolio**
 
-`2022.08~` 원더피플  입사
+`2022.08~` 원더피플 보안분석팀 입사
 
 `2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://www.notion.so/minjeejang-95/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python, Spring boot, RestAPI, Jython, Java, Thymeleaf, Bootstrap, Ajax, Jquery, MySQL
