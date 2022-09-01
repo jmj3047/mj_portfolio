@@ -23,7 +23,8 @@
   - 주제 및 내용: 취준생을 위한 성격 유형 테스트 및 정보 공유 커뮤니티
   - 담당업무: 데이터 베이스 구성, 성격유형 테스트 기능 구현, 메인 페이지 html template 제공,  ML 데이터 수집/전처리 업무, 성격유형 테스트 페이지 디자인
   - [소스코드](https://github.com/jmj3047/VerDeTerr)
-  - [관련 내용](https://github.com/jmj3047/verdeterr_java_prj)
+  - [회의록 및 서류](https://github.com/jmj3047/verdeterr_java_prj)
+  - [시연 영상](https://www.youtube.com/watch?v=yGaFgthraUQ)
 
 `2022.04~2022.07` [Deep/Machine Learning Paper Study](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
   - 작업툴: Notion, Github, Powerpoint
@@ -53,6 +54,7 @@
   - 담당업무: 서비스기획, 시나리오구성, 데이터수집, 데이터전처리, 조회알고리즘, 스킬서버구축, 시연영상제작
   - [소스코드](https://github.com/jmj3047/zipfilx-home)
   - [회의록 및 서류](https://nervous-barracuda-05a.notion.site/4ed79d034f694e6bb1970c9cb5f4d24d)
+  - [시연영상](https://youtu.be/P5CfPy7NbmY)
 
 `2019.09~2021.02` 한국외국어대학교 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
   - 사용언어: HTML
