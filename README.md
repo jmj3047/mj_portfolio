@@ -24,6 +24,7 @@
   - 담당업무: 데이터 베이스 구성, 성격유형 테스트 기능 구현, 메인 페이지 html template 제공,  ML 데이터 수집/전처리 업무, 성격유형 테스트 페이지 디자인
   - [소스코드](https://github.com/jmj3047/VerDeTerr)
   - [관련 내용](https://github.com/jmj3047/verdeterr_java_prj)
+  - [시연영상](https://www.youtube.com/watch?v=yGaFgthraUQ)
 
 `2022.04~2022.07` [Deep/Machine Learning Paper Study](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
   - 작업툴: Notion, Github, Powerpoint
