@@ -55,7 +55,7 @@
   - 선정주제: 무주택자를 위한 대출 상품 조회와 금리 계산 서비스 개발
   - 담당업무: 서비스기획, 시나리오구성, 데이터수집, 데이터전처리, 조회알고리즘, 스킬서버구축, 시연영상제작
   - [소스코드](https://github.com/jmj3047/zipfilx-home)
-  - [회의록 및 서류](https://nervous-barracuda-05a.notion.site/4ed79d034f694e6bb1970c9cb5f4d24d)
+  - [회의록 및 서류](https://nervous-barracuda-05a.notion.site/792f10ceb8e34ad798ada7e757f10bb8)
   - [시연영상](https://youtu.be/P5CfPy7NbmY)
 
 `2019.09~2021.02` 한국외국어대학교 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
