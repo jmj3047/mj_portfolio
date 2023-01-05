@@ -11,11 +11,22 @@
 `Deep Learning specialist` `English Linguistics` `Cultural Narrative` 
 
 
-## **👩‍💻Career & Portfolio**
+## **👩‍💻Career**
 
-`2022.09` Bagging & XGBoost를 활용한 귀환 유저 예측 모델 생성
+`2022.08~` 원더피플 보안분석팀/데이터랩팀 근무
 
-`2022.08~` 원더피플 보안분석팀 입사
+
+## **👩‍🕵️Projects **
+
+`2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
+  - 사용언어: Python, Tensorflow
+  - 작업툴: Visual Studio Code, Kaldi, HTK, Adobe Audition
+  - 인원: 7명
+  - 기간: 2020.09.01~2020.11.30
+  - 내용: 자동차 음성제어를 위한 Voice Trigger 모듈 개발
+  - 선정주제: CNN, HMM을 비교하여 더 나은 성능의 Trigger Word Detection Model 제작
+  - 담당업무: Trigger Word 녹음 및 전처리, HTK를 사용한 HMM모델 만들기, Python을 사용하여 CNN 모델 만들기
+  - [소스코드](https://github.com/jmj3047/trigger_word_detection_prj.git)
 
 `2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://www.notion.so/minjeejang-95/616359b2cd9d4dbeab54bc7c5530a1be)
   - 사용언어: Python, Spring boot, RestAPI, Jython, Java, Thymeleaf, Bootstrap, Ajax, Jquery, MySQL
@@ -65,16 +76,6 @@
   - 기간: 2020.03.02~2021.08.31
   - 내용: 외국어 교육센터 홈페이지 관리 및 통계 분석 담당
   - 담당업무: 홈페이지 유지 보수, 보고서 분석 및 통계 자료 제작
-
-`2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
-  - 사용언어: Python, Tensorflow
-  - 작업툴: Visual Studio Code, Kaldi, HTK, Adobe Audition
-  - 인원: 7명
-  - 기간: 2020.09.01~2020.11.30
-  - 내용: 자동차 음성제어를 위한 Voice Trigger 모듈 개발
-  - 선정주제: CNN, HMM을 비교하여 더 나은 성능의 Trigger Word Detection Model 제작
-  - 담당업무: Trigger Word 녹음 및 전처리, HTK를 사용한 HMM모델 만들기, Python을 사용하여 CNN 모델 만들기
-  - [소스코드](https://github.com/jmj3047/trigger_word_detection_prj.git)
 
 `2020.09~2020.12` NIA 프로젝트
   - 사용언어: Python
