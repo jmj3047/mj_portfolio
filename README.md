@@ -8,13 +8,12 @@
 
 문장에 담긴 뜻처럼 과거에서 배우고 발전하는 미래를 위해 노력합니다. 
 
-`Deep Learning specialist` `English Linguistics` `Cultural Narrative` 
+`Data scientist` `English Linguistics` `Cultural Narrative` 
 
 
 ## **👩‍💻Career**
 
 `2022.08~` 원더피플 보안분석팀/데이터랩팀 data scientist
-  
   📊 원더피플 자체 통계툴 개발
     - 주요업무
       - IP 현황에 대한 실시간/비실시간 모니터링
