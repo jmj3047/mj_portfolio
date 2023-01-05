@@ -16,7 +16,7 @@
 `2022.08~` 원더피플 보안분석팀/데이터랩팀 근무
 
 
-## **👩‍🕵️Projects **
+## **🕵️Projects **
 
 `2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
   - 사용언어: Python, Tensorflow
