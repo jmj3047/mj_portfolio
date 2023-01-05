@@ -157,10 +157,10 @@
 ## 📝 **Used Skill & Tool**
 
 **Skill**
-`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java` `PostgreSQL` `BigQuery` 
+`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java` `PostgreSQL` `BigQuery` `Oracle` `MySQL`
 
 **Tool**
-`Grafana` `Looker Studio` `Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `Oracle` `MySQL` `MongoDB` `DBeaver` `STS4` 
+`Grafana` `Looker Studio` `Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `MongoDB` `DBeaver` `STS4` 
 
 ## 👩‍🚀**Related Skills**
 
