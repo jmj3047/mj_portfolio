@@ -28,7 +28,7 @@
   - 담당업무: Trigger Word 녹음 및 전처리, HTK를 사용한 HMM모델 만들기, Python을 사용하여 CNN 모델 만들기
   - [소스코드](https://github.com/jmj3047/trigger_word_detection_prj.git)
 
-`2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://www.notion.so/minjeejang-95/616359b2cd9d4dbeab54bc7c5530a1be)
+`2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://www.notion.so/minjeejang-95/d5224d1b5c56407eb7b363036b7a7c01)
   - 사용언어: Python, Spring boot, RestAPI, Jython, Java, Thymeleaf, Bootstrap, Ajax, Jquery, MySQL
   - 작업툴: STS4, Dbeaver, Sourcetree
   - 인원: 5명
@@ -66,7 +66,7 @@
   - 선정주제: 무주택자를 위한 대출 상품 조회와 금리 계산 서비스 개발
   - 담당업무: 서비스기획, 시나리오구성, 데이터수집, 데이터전처리, 조회알고리즘, 스킬서버구축, 시연영상제작
   - [소스코드](https://github.com/jmj3047/zipfilx-home)
-  - [회의록 및 서류](https://nervous-barracuda-05a.notion.site/792f10ceb8e34ad798ada7e757f10bb8)
+  - [회의록 및 서류](https://www.notion.so/minjeejang-95/b22a32df674c46a286d289eced97b6bd)
   - [시연영상](https://youtu.be/P5CfPy7NbmY)
 
 `2019.09~2021.02` 한국외국어대학교 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
