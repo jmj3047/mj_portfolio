@@ -42,7 +42,7 @@
 
 
 
-## **🕵️Projects **
+## **🕵️Projects**
 
 `2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
   - 사용언어: Python, Tensorflow
@@ -155,13 +155,13 @@
 
 `2017` ZD A2급 취득
 
-## 📝 **Used Tool & Skill**
-
-**Tool**
-`Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `Oracle` `MySQL` `MongoDB` `DBeaver` `STS4` `PostgreSQL` `Grafana` `BigQuery`
+## 📝 **Used Skill & Tool**
 
 **Skill**
-`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java`
+`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java` `PostgreSQL` `BigQuery` 
+
+**Tool**
+`Grafana` `Looker Studio` `Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `Oracle` `MySQL` `MongoDB` `DBeaver` `STS4` 
 
 ## 👩‍🚀**Related Skills**
 
