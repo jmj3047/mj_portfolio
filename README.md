@@ -68,9 +68,7 @@
   - 작업툴: Notion, Github, Powerpoint
   - 인원: 3명
   - 기간: 2022.04.10~2022.07.09
-  - 내용
-    - 딥러닝 및 머신러닝 모델에 대한 관련 논문을 읽고 블로그에 정리
-    - 딥러닝 및 머신러닝 모델을 코드로 구현 및 실습
+  - 내용: 딥러닝 및 머신러닝 모델에 대한 관련 논문을 읽고 블로그에 정리, 관련 모델을 코드로 구현 및 실습
   - [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
   
 `2022.06` [Dacon 음성 분류 경진대회](https://github.com/jmj3047/dacon_soundrecognition.git)
