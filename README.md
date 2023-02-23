@@ -14,6 +14,8 @@
 
 ## **👩‍💻Career**
 
+`2023.02~` MCloudBridge Google팀 Research Engineer 재직중
+
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
    **[📊 원더피플 자체 통계툴 개발](https://www.notion.so/minjeejang-95/ac7dc0f25de348b5badd9a8acd8cbec8)**
