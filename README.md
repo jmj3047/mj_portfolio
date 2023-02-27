@@ -124,7 +124,7 @@
   - 내용: 한국어 교재 데이터를 어휘, 어미, 표현 섹터로 분류
   - [관련자료 및 코드](https://github.com/jmj3047/korean_data_classification_prj.git)
  
-`2019.05~2019.10` [UAI 프로젝트](https://minjeejang-95.notion.site/UAI-_-1691d2f8ed5b432fab66812b4fdf3530)
+`2019.05~2019.10` [UAI 프로젝트](https://github.com/jmj3047/UAI_prj/blob/f31ced8f986d9fe485917083df152e03b1996b3d/README.md)
   - 사용언어: HTML, CSS3, Java, Java Script, SQL
   - 작업툴: Visual Studio Code, Eclipse, Spring, Oracle
   - 인원: 6명
