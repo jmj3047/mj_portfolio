@@ -87,7 +87,7 @@
   - 대회 내용: 음성데이터를 이용하여 0~9까지 숫자를 분류하는 대회
   - 담당업무: 음성데이터 전처리, mfcc featuring, CNN modeling
 
-`2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://www.notion.so/minjeejang-95/53846649cd564e93a2e9e4d4c736235b)
+`2022.03~2022.05` [부동산 금리계산기 서비스 챗봇 개발 프로젝트](https://github.com/jmj3047/zipfilx-home/blob/673ef42437262ec956164f4d7a5be405300c4686/zipflix_doc/zipfilx_doc.md)
   - 사용언어: Python
   - 작업툴: Visual Studio Code, PostgreSQL, Adobe Premiere Pro
   - 인원: 5명
