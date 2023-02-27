@@ -132,7 +132,7 @@
   - 내용: Java기반 빅데이터 IT콘텐츠 정보시스템 취업과정에서 한 팀 프로젝트
   - 선정주제: 소비자와 판매자 간의 구분이 없는 활발한 양방향 인터넷 강의 플랫폼 사이트 구축
   - 담당업무: 메인페이지, 마이페이지, 게시판, 관리자페이지, 회원가입 및 로그인 화면 구현, UI 디자인, 아이디어 기획
-  - [소스코드](https://www.dropbox.com/sh/jqabnhknbb6sibc/AADP3FOkhvelhU5frOYg53Woa?dl=0)
+  - [소스코드](https://github.com/jmj3047/UAI_prj.git)
 
 ## **🎓 Education**
 
