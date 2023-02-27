@@ -50,7 +50,7 @@
 
 ## **🕵️Projects**
 
-`2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
+`2020.09~2020.12` [한국연구재단 창의자율과제 프로젝트](https://github.com/jmj3047/trigger_word_detection_prj/blob/725e4e3698ea00e3412f6b52531bf66174cfc765/README.md)
   - 사용언어: Python, Tensorflow
   - 작업툴: Visual Studio Code, Kaldi, HTK, Adobe Audition
   - 인원: 7명
