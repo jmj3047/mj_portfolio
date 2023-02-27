@@ -27,7 +27,7 @@
 
 
   **🤖 머신러닝, 리테션을 이용한 데이터 분석**
-  - [슈퍼피플_FCBT에 접속한 유저들 중 EA에 돌아올 가능성이 있는 유저 예측](https://www.notion.so/minjeejang-95/FCBT-EA-54a0504485c043bd931d4a98ec78e434)
+  - [슈퍼피플_FCBT에 접속한 유저들 중 EA에 돌아올 가능성이 있는 유저 예측](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_retention_pred/wp_retention_pred.md)
   - 슈퍼피플_제재 유저 분류 모델
   - [빌딩앤파이터_D+1 리텐션에 따른 유저 분석용 데이터 셋 분석](https://www.notion.so/minjeejang-95/D-1-1d2b7333748148d1bc42660a2c52c177)
   - BigQuery, Python
