@@ -60,7 +60,7 @@
   - 담당업무: Trigger Word 녹음 및 전처리, HTK를 사용한 HMM모델 만들기, Python을 사용하여 CNN 모델 만들기
   - [소스코드](https://github.com/jmj3047/trigger_word_detection_prj.git)
 
-`2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://www.notion.so/minjeejang-95/d5224d1b5c56407eb7b363036b7a7c01)
+`2022.07~2022.08` [취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티](https://github.com/jmj3047/verdeterr_java_prj/blob/ae279ab85bf00e65f16ff212d95f47043f8e41a0/README.md)
   - 사용언어: Python, Spring boot, RestAPI, Jython, Java, Thymeleaf, Bootstrap, Ajax, Jquery, MySQL
   - 작업툴: STS4, Dbeaver, Sourcetree
   - 인원: 5명
