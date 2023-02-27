@@ -18,7 +18,7 @@
 
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
-   **[📊 원더피플 자체 통계툴 개발](https://github.com/jmj3047/wp_prj.git)**
+   **[📊 원더피플 자체 통계툴 개발](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_dashboard/wp_dashboard.md)**
    - IP 현황에 대한 실시간/비실시간 모니터링
    - 비용 절감 및 속도 향상을 위한 쿼리 튜닝
    - 데이터 시각화 및 지표 수정을 통한 인사이트 도출
