@@ -14,7 +14,7 @@
 
 ## **👩‍💻Career**
 
-`2023.02~` MCloudBridge Google팀 Research Engineer 
+`2023.02~` MCloudBridge Google Data & AI Research Engineer 
 
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
