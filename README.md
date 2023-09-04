@@ -14,7 +14,7 @@
 
 ## **👩‍💻Career**
 
-`2023.02~` MCloudBridge Google Data & AI ML Engineer 재직 중
+`2023.02~` MCloudBridge Google Data & AI팀 ML Engineer 재직 중
 
   🏗️ **Data Migration: Data Warehouse, Data Mart, Power BI 개발**
   - Philip Morris Korea Cloud Migration Project
@@ -32,7 +32,7 @@
   - 빅쿼리, Vertex AI를 사용한 추천시스템 모델 구축
   - Youtube 추천 시스템 모델 사용
   - feature engineering을 통한 데이터 효율화 진행
----
+
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
    **[📊 원더피플 자체 통계툴 개발](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_dashboard/wp_dashboard.md)**
