@@ -14,8 +14,24 @@
 
 ## **👩‍💻Career**
 
-`2023.02~` MCloudBridge Google Data & AI Research Engineer 
+`2023.02~` MCloudBridge Google Data & AI ML Engineer 재직 중
+  🏗️ **Data Migration: Data Warehouse, Data Mart, Power BI 개발**
+  - Philip Morris Korea Cloud Migration Project
+  - SQL Server Reporting Services 에 있던 데이터들을 이관하여 Power BI로 개발
+  - SQL Server Integration Services, SQL Server Analysis Services 개발 및 배포
+  - 쿼리 분석 및 데이터 파이프라인 개발 및 스케줄링 시스템 구축
 
+  📌 **수요예측을 통한 고객 경험 개선과 초개인화 마케팅 전략 구축**
+  - Google Analytics → Big Query → BigQuery ML을 사용한 전체적인 MLOps 시스템 구축
+  - EDA 진행 및 인사이트 도출
+  - ARIMA 모델을 사용한 Machine Learning 모델 개발
+  - 초개인화 서비스 마케팅 전략 기획
+
+  🎯 **E-Commerce Recommendation System 구축** [Link](https://jmj3047.github.io/2023/04/03/Ecommerce_Rec/)
+  - 빅쿼리, Vertex AI를 사용한 추천시스템 모델 구축
+  - Youtube 추천 시스템 모델 사용
+  - feature engineering을 통한 데이터 효율화 진행
+---
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
    **[📊 원더피플 자체 통계툴 개발](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_dashboard/wp_dashboard.md)**
