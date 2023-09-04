@@ -32,7 +32,7 @@
   - 빅쿼리, Vertex AI를 사용한 추천시스템 모델 구축
   - Youtube 추천 시스템 모델 사용
   - feature engineering을 통한 데이터 효율화 진행
-  - 성과: 내부 PJT시 필요한 문서 시스템 구축 및 Vertex AI에 대한 이해도 증가
+  - 성과: 내부 PJT시 필요한 문서 시스템 구축 및 Vertex AI 활용도 증가
 
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
