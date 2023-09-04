@@ -15,6 +15,7 @@
 ## **👩‍💻Career**
 
 `2023.02~` MCloudBridge Google Data & AI ML Engineer 재직 중
+
   🏗️ **Data Migration: Data Warehouse, Data Mart, Power BI 개발**
   - Philip Morris Korea Cloud Migration Project
   - SQL Server Reporting Services 에 있던 데이터들을 이관하여 Power BI로 개발
@@ -40,7 +41,6 @@
    - 데이터 시각화 및 지표 수정을 통한 인사이트 도출
    - PostgreSQL, BigQuery, Looker Studio, Grafana
    - 성과: 상위관리자 30명이 대시보드를 통해 각 팀의 문제점이나 게임 진행상황 모니터링 가능
-
 
   **🤖 머신러닝, 리테션을 이용한 데이터 분석**
   - [슈퍼피플_FCBT에 접속한 유저들 중 EA에 돌아올 가능성이 있는 유저 예측](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_retention_pred/wp_retention_pred.md)
@@ -86,13 +86,6 @@
   - [소스코드](https://github.com/jmj3047/VerDeTerr)
   - [시연 영상](https://www.youtube.com/watch?v=yGaFgthraUQ)
   - [발표 자료 및 문서](https://github.com/jmj3047/verdeterr_java_prj)
-
-`2022.04~2022.07` [Deep/Machine Learning Paper Study](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/)
-  - 작업툴: Notion, Github, Powerpoint
-  - 인원: 3명
-  - 기간: 2022.04.10~2022.07.09
-  - 내용: 딥러닝 및 머신러닝 모델에 대한 관련 논문을 읽고 블로그에 정리, 관련 모델을 코드로 구현 및 실습
-  - [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
   
 `2022.06` [Dacon 음성 분류 경진대회](https://github.com/jmj3047/dacon_soundrecognition.git)
   - 사용언어: Python
@@ -115,14 +108,6 @@
   - [회의록 및 서류](https://www.notion.so/minjeejang-95/b22a32df674c46a286d289eced97b6bd) << notion id needed(노션 아이디 필요)
   - [시연영상](https://youtu.be/P5CfPy7NbmY)
 
-`2019.09~2021.02` 한국외국어대학교 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
-  - 사용언어: HTML
-  - 작업툴: Visual Studio Code, Excel, Powerpoint
-  - 인원: 1명
-  - 기간: 2020.03.02~2021.08.31
-  - 내용: 외국어 교육센터 홈페이지 관리 및 통계 분석 담당
-  - 담당업무: 홈페이지 유지 보수, 보고서 분석 및 통계 자료 제작
-
 `2020.09~2020.12` NIA 프로젝트
   - 사용언어: Python
   - 작업툴: Visual Studio Code, Excel
@@ -130,14 +115,6 @@
   - 기간: 2019.09.16~2020.12.31
   - 내용: 인공지능(AI) 학습용 데이터 구축 2차(자연어/자유대화 분야)
   - 담당업무: 외래어 단어 예문 생성
-  
-`2020.09~2020.12` 교재별 한국어 데이터 분류 및 통계 작업
-  - 사용언어: Python
-  - 작업툴: Visual Studio Code, Excel
-  - 인원: 3명
-  - 기간: 2019.09.01~2020.12.31
-  - 내용: 한국어 교재 데이터를 어휘, 어미, 표현 섹터로 분류
-  - [관련자료 및 코드](https://github.com/jmj3047/korean_data_classification_prj.git)
  
 `2019.05~2019.10` [UAI 프로젝트](https://github.com/jmj3047/UAI_prj/blob/f31ced8f986d9fe485917083df152e03b1996b3d/README.md)
   - 사용언어: HTML, CSS3, Java, Java Script, SQL
@@ -167,6 +144,7 @@
 
 
 ## 🧾Certificate
+`2023` Google Cloud Certified - Professional Machine Learning Engineer 취득
 
 `2019` 엑셀 통계 분석 능력 검정 2급 취득
 
@@ -177,12 +155,18 @@
 ## 📝 **Used Skill & Tool**
 
 **Skill**
-`HTML5` `CSS3` `Python` `Javascript` `R` `SQL` `Linux` `Tensorflow`  `HTK` `Kaldi` `Pytorch` `Java` `PostgreSQL` `BigQuery` `Oracle` `MySQL`
+`Python` `R` `SQL` `Linux` `Tensorflow` `HTK` `Kaldi` `Pytorch` `Java` `PostgreSQL` `BigQuery` `Oracle` `MySQL` `HTML5` `CSS3` `Javascript` `MSSQL`
 
 **Tool**
-`Grafana` `Looker Studio` `Git` `Github` `MicroSoft` `VisualStudioCode`  `AdobePhotoShop` `AdobePremierePro` `AdobeAudition` `MongoDB` `DBeaver` `STS4` 
+`Google Analytics` `Google Cloud Platform` `SQL Sever Management Studio` `Visual Studio` `Power BI` `Grafana` `Looker Studio` `Git` `Github` `MicroSoft` `VisualStudioCode` `MongoDB` `DBeaver` `STS4` 
 
 ## 👩‍🚀**Related Skills**
+
+`2022.04~2022.07` [Deep/Machine Learning Paper Study](https://jmj3047.github.io/tags/Deep-Machine-Learning-Paper-Study/) [코드 자료](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study.git)
+
+`2020.09~2020.12` [교재별 한국어 데이터 분류 및 통계 작업](https://github.com/jmj3047/korean_data_classification_prj.git)
+
+`2019.09~2021.02` 한국외대 외국어교육센터 홈페이지 관리 및 통계 분석 담당 
 
 `2019.09~2020.02` 한국외대 대학원 처장실 근무
 
