@@ -26,12 +26,13 @@
   - Google Analytics → Big Query → BigQuery ML을 사용한 전체적인 MLOps 시스템 구축
   - EDA 진행 및 인사이트 도출
   - ARIMA 모델을 사용한 Machine Learning 모델 개발
-  - 초개인화 서비스 마케팅 전략 기획
+  - 성과: 초개인화 서비스 마케팅 전략 기획에 대해 세미나 발표 진행
 
   🎯 **E-Commerce Recommendation System 구축** [Link](https://jmj3047.github.io/2023/04/03/Ecommerce_Rec/)
   - 빅쿼리, Vertex AI를 사용한 추천시스템 모델 구축
   - Youtube 추천 시스템 모델 사용
   - feature engineering을 통한 데이터 효율화 진행
+  - 성과: 내부 PJT시 필요한 문서 시스템 구축 및 Vertex AI에 대한 이해도 증가
 
 `2022.08~2023.02` 원더피플 보안분석팀/데이터랩팀 data scientist
 
@@ -39,27 +40,23 @@
    - IP 현황에 대한 실시간/비실시간 모니터링
    - 비용 절감 및 속도 향상을 위한 쿼리 튜닝
    - 데이터 시각화 및 지표 수정을 통한 인사이트 도출
-   - PostgreSQL, BigQuery, Looker Studio, Grafana
    - 성과: 상위관리자 30명이 대시보드를 통해 각 팀의 문제점이나 게임 진행상황 모니터링 가능
 
   **🤖 머신러닝, 리테션을 이용한 데이터 분석**
   - [슈퍼피플_FCBT에 접속한 유저들 중 EA에 돌아올 가능성이 있는 유저 예측](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_retention_pred/wp_retention_pred.md)
   - 슈퍼피플_제재 유저 분류 모델
   - [빌딩앤파이터_D+1 리텐션에 따른 유저 분석용 데이터 셋 분석](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_retention_analysis/wp_retention_analysis.md)
-  - BigQuery, Python
   - 성과: 리텐션에 영향을 미치는 지표 선정 → 모델 선택 → 예측 과정을 통해 마케팅 비용 산정을 위한 귀환 유저를 예측
     
   **🏗️ 데이터 마트 개발**
   - 통계 수요자(사업/개발/보안) 니즈 확인 및 요구사항 분석
   - 필요 로그 테이블 확인 → 중간 테이블 로그 명세서 작성 및 유용한 지표 도출
   - 기존 통계툴 성능 점검 및 쿼리 간소화
-  - PostgreSQL, BigQuery, DBeaver, Atlassian
   - 성과: 중간테이블을 통해 타 팀의 데이터 요청을 줄여 집계 업무를 간소화
 
   **📈 데이터 집계 업무 지원(개발/사업/경영진)** 
   - 리텐션, 윈도우 함수를 사용하여 유저 데이터 추출 및 다양한 게임 데이터 집계
   - [추출 데이터 활용 예시](https://youtu.be/-As_mmCXCtA)
-  - PostgreSQL, BigQuery
   - 성과: 하루에 평균 3건 이상의 데이터 추출 요청 완료
 
 
