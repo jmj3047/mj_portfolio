@@ -131,11 +131,11 @@ Personalized Speech Emotion Recognition using Few-Shot Learning with Speaker Fea
   - [Source code](https://github.com/jmj3047/UAI_prj.git)
 
 ## **🎓 Education**
-`2025` University of Canberra, Master of ITS
+`2025` Master of ITS from University of Canberra
 
 `2022` Completed the Big Data Analytics with AI Data Platforms Professional Course (AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 수료)
 
-`2019` Master in Practical Spoken Language Processing from Hankuk University of Foreign Studies
+`2019` Research Master in Practical Spoken Language Processing from Hankuk University of Foreign Studies
 
 `2019` Completed Java-based big data IT content information system employment course (Java기반 빅데이터 IT콘텐츠 정보시스템 취업과정 수료)
 
