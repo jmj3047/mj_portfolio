@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-### Data Scientist | AI Engineer | Cloud Computing | Speech Processing Research
+## Data Scientist | AI Engineer | Cloud Computing | Speech Processing Research
 
 I am a data science professional with a strong background in deep learning and machine learning. I have successfully built a Speech Emotion Recognition system using advanced deep learning techniques, demonstrating my expertise in developing intelligent and responsive systems. 
 
@@ -18,9 +18,9 @@ Proposed a novel Personalized Speech Emotion Recognition (P-SER) model that comb
 
 ## **👩‍💻Career**
 
-AI Engineer | Feb 2023 - Jan 2025 | M Cloud Bridge | Seoul, South Korea
-
-  ⛓️ **Building ML models in Azure Cloud Platform for Insurance company**
+### AI Engineer | Feb 2023 - Jan 2025 | M Cloud Bridge | Seoul, South Korea
+
+⛓️ **Building ML models in Azure Cloud Platform for Insurance company**
     - Metlife Korea Project
     - Built three machine learning models to enhance retention rate in the process of buying insurance.
     - Designed and built the first AI model in the financial sector in Korea that utilises customer information.
@@ -41,7 +41,7 @@ AI Engineer | Feb 2023 - Jan 2025 | M Cloud Bridge | Seoul, South Korea
   - Make the data more efficient with feature engineering
 
 
-Data Scientist | Aug 2022 - Feb 2023 | Wonder People | Seoul, South Korea
+### Data Scientist | Aug 2022 - Feb 2023 | Wonder People | Seoul, South Korea
 
    **[📊 Developing Wonderpeople's own statistical tools](https://github.com/jmj3047/wp_prj/blob/393857bb2ab48ddfb65f53b2b861b91329eff11f/wp_dashboard/wp_dashboard.md)**
    - Real-time and non-real-time monitoring of IP status
