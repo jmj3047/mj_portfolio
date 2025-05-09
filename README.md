@@ -12,7 +12,7 @@ My experience in a cloud company involved orchestrating large-scale data migrati
 
 Personalized Speech Emotion Recognition using Few-Shot Learning with Speaker Feature [Link](https://hufs.dcollection.net/public_resource/pdf/200000849567_20250510032619.pdf)
 
-Proposed a novel Personalized Speech Emotion Recognition (P-SER) model that combines Few-Shot Learning, Wav2Vec2, and ECAPA-TDNN to enhance performance and data efficiency. By integrating speaker and emotion embeddings, the model achieves significant improvements in emotion recognition accuracy with minimal speaker data, demonstrating its effectiveness across various datasets and potential for real-world applications.
+*Proposed a novel Personalized Speech Emotion Recognition (P-SER) model that combines Few-Shot Learning, Wav2Vec2, and ECAPA-TDNN to enhance performance and data efficiency. By integrating speaker and emotion embeddings, the model achieves significant improvements in emotion recognition accuracy with minimal speaker data, demonstrating its effectiveness across various datasets and potential for real-world applications.*
 
 
 
@@ -20,14 +20,14 @@ Proposed a novel Personalized Speech Emotion Recognition (P-SER) model that comb
 
 ### AI Engineer | Feb 2023 - Jan 2025 | M Cloud Bridge | Seoul, South Korea
 
-⛓️ **Building ML models in Azure Cloud Platform for Insurance company**
-    - Metlife Korea Project
-    - Built three machine learning models to enhance retention rate in the process of buying insurance.
-    - Designed and built the first AI model in the financial sector in Korea that utilises customer information.
-  
+  ⛓️ **Building ML models in Azure Cloud Platform for Insurance company**
+  - Metlife Korea Project
+  - Built three machine learning models to enhance retention rate in the process of buying insurance.
+  - Designed and built the first AI model in the financial sector in Korea that utilises customer information.
+      
   💊 **In-house chatbot building project for a pharmaceutical company**
-    - Utilised MS Azure and Open AI model to create a solution that can generate images as well as text.
-    - Building an in house chatbot with Retrieval Augmented Generation (RAG), the security conscious pharmaceutical company's research department can use generative AI without worrying about data leakage.
+  - Utilised MS Azure and Open AI model to create a solution that can generate images as well as text.
+  - Building an in house chatbot with Retrieval Augmented Generation (RAG), the security conscious pharmaceutical company's research department can use generative AI without worrying about data leakage.
 
   🏗️ **Data Migration: Data Warehouse, Data Mart, Power BI Development**
   - Philip Morris Korea Cloud Migration Project
